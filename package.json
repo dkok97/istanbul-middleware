@@ -5,7 +5,7 @@
   "version": "0.2.2",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gotwarlost/istanbul-middleware.git"
+    "url": "git@github.com:dkok97/istanbul-middleware.git"
   },
   "scripts": {
     "pretest": "jshint --config ./node_modules/yui-lint/jshint.json lib/*js",
